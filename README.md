@@ -11,7 +11,7 @@ The project focuses on creating a responsive and structured e-commerce interface
 
 ## Live Website
 
-[Visit Meera Website](YOUR_DEPLOYMENT_LINK)
+https://magnificent-sundae-ba83bd.netlify.app/
 
 ## Project Objectives
 
